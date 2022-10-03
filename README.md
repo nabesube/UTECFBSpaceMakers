@@ -13,3 +13,20 @@ More Details: https://2022.spaceappschallenge.org/challenges/2022-challenges/mar
 
 # Vision
 Due to the current conditions on Earth, sustainable design is becoming more relevant and essential. Designing in an intelligent way, solving multiple problems, saving material in order to lead a greener life and avoiding pollution are the main objectives that our team had in mind to approach this challenge. On Mars it must be the same way, especially with the shortage of resources when starting. We focus on designing modular and multipurpose equipment as well as a spare wheel for our rovel,  with the least amount of material possible. In the future it would be interesting to use generative design to improve the design process of different instruments, equipment and furniture. These approaches can also be used to solve problems of lack of equipment, tools, etc. in other environments.v
+
+#Interesting Link
+
+Design Guidelines.
+https://ntrs.nasa.gov/api/citations/20200001427/downloads/20200001427.pdf
+
+ARC 3D Model Database:
+https://nasa3d.arc.nasa.gov/models
+
+NASA Chapea:
+https://www.nasa.gov/chapea
+
+Technical information on additive manufacturing:
+https://www.nist.gov/additive-manufacturing
+
+MARS DUNE ALHPA (CHAPEA)
+https://www.iconbuild.com/technology/mars-dune-alpha
