@@ -1,6 +1,8 @@
 # UTEC Fray Bentos Space Makers
 UTECFBSM SpaceApps Challenge Team Repository
 
+![image](https://user-images.githubusercontent.com/76433448/193482951-aa052e30-bbbf-4d8f-998c-f108bce4bcec.png)
+
 Challenge: Outfitting a Mars Habitat: A 3D Print Challenge
 
 "Imagine you’re an astronaut who has newly arrived on the Red Planet. Your habitat has been pre-constructed for you, but, other than three 3-D printers, it doesn’t have most of the things you need to live and work. Your challenge is to design tools, furniture, and other items to assist you on your one-year mission."
