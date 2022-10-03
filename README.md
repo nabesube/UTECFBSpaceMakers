@@ -9,10 +9,10 @@ Challenge: Outfitting a Mars Habitat: A 3D Print Challenge
 
 More Details: https://2022.spaceappschallenge.org/challenges/2022-challenges/mars-habitat/details
 
-![image](https://user-images.githubusercontent.com/76433448/193469939-d39d1be9-532c-47a3-89d0-19645d29d3f1.png)
-
 # Vision
-Due to the current conditions on Earth, sustainable design is becoming more relevant and essential. Designing in an intelligent way, solving multiple problems, saving material in order to lead a greener life and avoiding pollution are the main objectives that our team had in mind to approach this challenge. On Mars it must be the same way, especially with the shortage of resources when starting. We focus on designing modular and multipurpose equipment as well as a spare wheel for our rovel,  with the least amount of material possible. In the future it would be interesting to use generative design to improve the design process of different instruments, equipment and furniture. These approaches can also be used to solve problems of lack of equipment, tools, etc. in other environments.v
+Due to the current conditions on Earth, sustainable design is becoming more relevant and essential. Designing in an intelligent way, solving multiple problems, saving material in order to lead a greener life and avoiding pollution are the main objectives that our team had in mind to approach this challenge. On Mars it must be the same way, especially with the shortage of resources when starting. We focus on designing modular and multipurpose equipment as well as a spare wheel for our rovel,  with the least amount of material possible. In the future it would be interesting to use generative design to improve the design process of different instruments, equipment and furniture. These approaches can also be used to solve problems of lack of equipment, tools, etc. in other environments.
+
+![image](https://user-images.githubusercontent.com/76433448/193469939-d39d1be9-532c-47a3-89d0-19645d29d3f1.png)
 
 # Interesting Link
 
