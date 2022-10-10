@@ -35,3 +35,6 @@ https://www.iconbuild.com/technology/mars-dune-alpha
 
 Generative Design
 https://www.ptc.com/-/media/Files/PDFs/CAD/Creo-9/195800-Creo-9-Generative-Datasheet.pdf
+
+Generative Design Fusion
+https://www.autodesk.com/solutions/generative-design/manufacturing
